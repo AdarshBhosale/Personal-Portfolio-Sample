@@ -21,7 +21,7 @@ This is an old version of my personal portfolio website showcasing my work, skil
 - **HTML5** – Structure  
 - **CSS3** – Styling & layout  
 - **JavaScript (ES6)** – Interactivity  
-- *(Optional)* Bootstrap (if used)  
+- Bootstrap 
 
 ---
 
